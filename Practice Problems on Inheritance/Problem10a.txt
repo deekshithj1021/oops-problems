@@ -1,0 +1,7 @@
+Which specifier makes all data members and functions of base class inaccessible by the derived class?
+a. private
+b. protected
+c. public
+d. both private and protected
+
+Ans: a. private 
